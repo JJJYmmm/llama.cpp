@@ -189,6 +189,9 @@ endif()
 
 add_subdirectory(src)
 
+
+add_subdirectory(test_kvc)
+
 #
 # utils, programs, examples and tests
 #
